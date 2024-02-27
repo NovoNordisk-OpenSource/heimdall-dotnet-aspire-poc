@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\heimdall-templates-dotnet-aspire.ApiService.props" />
+</Project>

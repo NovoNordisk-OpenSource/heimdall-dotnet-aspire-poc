@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3p8j73PlUJlf+n/+aiBtYxklIlNHeQf2cnR4yHXkb/A=",
+  "Source": "heimdall-templates-dotnet-aspire.ApiService",
+  "BasePath": "_content/heimdall-templates-dotnet-aspire.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
