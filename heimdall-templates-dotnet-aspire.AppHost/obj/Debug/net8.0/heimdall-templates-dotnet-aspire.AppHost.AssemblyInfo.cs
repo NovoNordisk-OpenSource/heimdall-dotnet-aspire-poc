@@ -10,10 +10,20 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
+    "3.24105.21\\tools\\dcp.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
+    "3.24105.21\\tools\\ext\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
+    "3.24105.21\\tools\\ext\\bin\\")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\tobia\\source\\repos\\heimdall-dotnet-aspire-poc\\heimdall-templates-dotnet-" +
+    "aspire.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Dashboard.Sdk.win-x64\\8.0.0-preview.3.24105." +
+    "21\\tools\\Aspire.Dashboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("heimdall-templates-dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d346f9df59193f235f5910c3e1c6945575b558c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1237182793854b6b38a696228a3e2eb66f8bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("heimdall-templates-dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("heimdall-templates-dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

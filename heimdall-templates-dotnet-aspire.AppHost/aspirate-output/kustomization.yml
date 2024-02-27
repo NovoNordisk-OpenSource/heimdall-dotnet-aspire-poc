@@ -1,0 +1,7 @@
+resources:
+- apiservice
+- webfrontend
+
+generatorOptions:
+  disableNameSuffixHash: true
+

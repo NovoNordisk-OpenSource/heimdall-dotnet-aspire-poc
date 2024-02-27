@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("heimdall-templates-dotnet-aspire.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d346f9df59193f235f5910c3e1c6945575b558c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1237182793854b6b38a696228a3e2eb66f8bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("heimdall-templates-dotnet-aspire.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("heimdall-templates-dotnet-aspire.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
